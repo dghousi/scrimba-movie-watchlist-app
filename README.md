@@ -12,3 +12,7 @@
 2. To save a movie to the watchlist click on "+ Watchlist".
 3. Click on My Watchlist to change to the watchlist page where saved movies are displayed.
 4. To remove a movie from the watchlist click on "- Remove".
+
+### Project Link
+
+[Link] (https://splendorous-arithmetic-5ef649.netlify.app/)
